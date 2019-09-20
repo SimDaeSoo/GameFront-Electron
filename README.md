@@ -2,6 +2,7 @@ Game Project / Front Application (Electon)
 =============
 Game Front Application
 멀티 슈팅게임 ADI의 Client Application이다. (for Desktop)
+GameFront 에서 Build된 파일을 가져와서 Electron Application으로 뺄 수 있도록 되어있다.
 
 Example URL : http://13.124.180.130:7000/
 
